@@ -16,7 +16,7 @@
 # The aim is to design the system as framework into which it will then be possible to add more parameters, define dependencies between them,
 # and insert prediction models.
 #
-# Parameters to consider - VAT rates, unemployment, GDP rate, average wage, retirement benefits adjustments, XXX VÝŠE DÁVEK XXX, birthrate, immigration,
+# Parameters to consider - VAT rates, unemployment, GDP rate, average wage, retirement benefits adjustments, benefits rates, birthrate, immigration,
 # inflation, repo rates, the amount of government debt, income tax rates, excise taxes, medical leave rate…
 #
 # CZECH
