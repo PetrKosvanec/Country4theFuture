@@ -1,7 +1,23 @@
 # Country4theFuture
 #
-# Capstone project to fulfill the requirements of masters degree in computer science at (Czech) University of Hradec Kralove
+# EN Capstone project to fulfill the requirements of masters degree in computer science at (Czech) University of Hradec Kralove
+# CZ Kód k diplomové práci, magisterský program Aplikovaná informatika, Univerzita Hradec Králové
 # Petr Košvanec
+#
+# ENGLISH
+# Implement web application that allows to simulate the Czech Republic's government budget. It has many items of spending as well as
+# revenues. Identify key parameters that may influence outcomes and strive to map them onto existing opendata. Aim for as detailed
+# granularity as possible - ideally include at least regions level.
+#
+# I.e. for example map employment data in certain regions onto individual income tax. Next you input unemployment trend in the next 24
+# months and this will generate tax revenue changes in the VAT as well as in individual income tax.
+#
+# The system should allow for parameter adjustments and also in time, i.e. for example simulate GDP growth by 1% in the following 3 years.
+# The aim is to design the system as framework into which it will then be possible to add more parameters, define dependencies between them,
+# and insert prediction models.
+#
+# Parameters to consider - VAT rates, unemployment, GDP rate, average wage, retirement benefits adjustments, XXX VÝŠE DÁVEK XXX, birthrate, immigration,
+# inflation, repo rates, the amount of government debt, income tax rates, excise taxes, medical leave rate…
 #
 # CZECH
 # Implementujte webouvou aplikaci, která umožní simulovat státní rozpočet ČR. Do něj vstupuje mnoho položek na výdajové i příjmové straně.
@@ -17,19 +33,5 @@
 #
 # Parametry ke zvážení – sazby DPH, nezaměstnanost, vývoj HDP, průměrná mzda, valorizace důchodů, výše dávek, porodnost, imigrace, inflace,
 # reposazby, výše státního dluhu, sazby daní z příjmu, spotřební daně, nemocnost…
-#
-# ENGLISH
-# Implement web application that allows to simulate the Czech Republic's government budget. It has many items of spending as well as
-# revenues. Identify key parameters that may influence outcomes and strive to map them onto existing opendata. Aim for as detailed
-# granularity as possible - ideally include at least regions level.
-#
-# I.e. for example map employment data in certain regions onto individual income tax. Next you input unemployment trend in the next 24
-# months and this will generate tax revenue changes in the VAT as well as in individual income tax.
-#
-# The system should allow for parameter adjustments and also in time, i.e. for example simulate GDP growth by 1% in the following 3 years.
-# The aim is to design the system as framework into which it will then be possible to add more parameters, define dependencies between them,
-# and insert prediction models.
-#
-# Parameters to consider - VAT rates, unemployment, GDP rate, average wage, retirement benefits adjustments, XXX VÝŠE DÁVEK XXX, birthrate, immigration,
-# inflation, repo rates, the amount of government debt, income tax rates, excise taxes, XXX NEMOCNOST XXX ...
+
 
